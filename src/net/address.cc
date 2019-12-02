@@ -5,6 +5,9 @@
 #include <memory>
 #include <cassert>
 
+// for function not defined error
+#include <functional>
+
 #include <netdb.h>
 
 #include "address.hh"
